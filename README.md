@@ -6,7 +6,7 @@ For more information see the associated [MDN tutorial home page](https://develop
 
 ## Getting Started
 
-1. fork it
+1. accept the assignment via the invitation link - https://classroom.github.com/a/j_Vbz8QI
 
 2. clone it to your local PC
 
