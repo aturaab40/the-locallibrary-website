@@ -26,5 +26,19 @@ For more information see the associated [MDN tutorial home page](https://develop
 
    If you open the package.json file you will see the defaults that you accepted
 
-6. 
+6. Installing the Express Application Generator
+
+   ```shell
+   npm install express-generator -g
+   ```
+
+   The [Express Application Generator](https://expressjs.com/en/starter/generator.html) tool generates an Express application "skeleton". Install the generator using NPM as shown above
+
+7. Installing the Express within this folder and template engine should be pug
+
+   ```shell
+   express . --view=pug
+   ```
+
+   
 
