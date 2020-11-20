@@ -1,6 +1,6 @@
 # the locallibrary website
 
-Tutorial "Local Library" website written in in Node/Express.
+Tutorial "Local Library" website written in Node/Express.
 
 For more information see the associated [MDN tutorial home page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website).
 
